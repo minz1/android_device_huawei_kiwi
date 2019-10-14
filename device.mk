@@ -232,6 +232,10 @@ PRODUCT_PACKAGES += \
     libOmxVidcCommon \
     libstagefrighthw
 
+# ODIN
+PRODUCT_PACKAGES += \
+    ODIN
+
 # Power HAL
 PRODUCT_PACKAGES += \
     android.hardware.power@1.1-service-qti
